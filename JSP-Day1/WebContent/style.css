@@ -1,0 +1,36 @@
+body{
+background-color:MintCream;
+} 
+
+.btn{
+ margin-left:70pc;
+font-family:Arial;
+background-color:darkblue;
+ color:seashell;
+  margin-top:20px;
+  height:40px; 
+  width:70px;
+  border: none;
+   border-radius: 7px; 
+   font-size:16px; 
+    font-weight:bold; 
+   cursor:pointer;
+}
+.btn:hover{
+background-color:darkgreen;
+}
+div{
+
+background-color: NavajoWhite;
+height:50%;
+  width:45%; 
+  padding-top:6px;
+  border-radius:8px;
+  margin-top:6pc;
+}
+h1{
+
+color: Navy; 
+margin-top: 43px; 
+font-family:Arial;
+}
